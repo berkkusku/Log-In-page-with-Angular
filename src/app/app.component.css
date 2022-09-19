@@ -1,0 +1,22 @@
+.mainTopic{
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+}
+
+.hm{
+    border: 1px solid gray;
+    padding: 50px 30px;
+    border-radius: 0.5rem;
+    background-color: #d7d7d7;
+}
+
+.login{
+
+    font-weight: 500;
+    font-size: 40px;
+    text-align: center;
+    letter-spacing:2px;
+}
